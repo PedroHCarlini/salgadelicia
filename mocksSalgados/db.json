@@ -1,0 +1,34 @@
+{
+  "salgados": [
+    {
+      "id": 1,
+      "name": "coxinha",
+      "description": "O frango mais totoso da terra",
+      "avaliação": 5
+    },
+    {
+      "id": 2,
+      "name": "Bolinha de Queijo",
+      "description": "O queijo mais totoso da terra",
+      "avaliação": 5
+    },
+    {
+      "id": 3,
+      "name": "Enroladinho de Salchicha",
+      "description": "A salchicha mais totosa da terra (lá ele)",
+      "avaliação": 4
+    },
+    {
+      "id": 4,
+      "name": "Esfiha Assada",
+      "description": "A esfiha mais totoso da terra",
+      "avaliação": 4
+    },
+    {
+      "id": 5,
+      "name": "Kibe",
+      "description": "O Kibe mais totoso da terra",
+      "avaliação": 5
+    }
+  ]
+}
